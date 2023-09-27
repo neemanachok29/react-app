@@ -26,3 +26,4 @@ jobs:
           branch: gh-pages
           folder: build
           token: ${{ secrets.REACT_APP}}
+          
